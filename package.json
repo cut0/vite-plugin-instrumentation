@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-instrumentation",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "The Vite plugin for configuring settings at build or server startup",
   "repository": {
     "type": "git",
@@ -24,16 +24,10 @@
     "build": "tsc -p ./tsconfig.build.json && tsx build.ts",
     "release": "pnpm build && changeset publish"
   },
-  "keywords": [
-    "vite",
-    "plugin",
-    "instrumentation"
-  ],
+  "keywords": ["vite", "plugin", "instrumentation"],
   "author": "Cut0",
   "license": "MIT",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "dependencies": {
     "vite": "^5.4.2"
   },
