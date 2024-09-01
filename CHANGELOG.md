@@ -1,5 +1,12 @@
 # vite-plugin-instrumentation
 
+## 0.0.4
+
+### Patch Changes
+
+- 1a21b69: example
+- 26f987e: docs: add README
+
 ## 0.0.3
 
 ### Patch Changes
