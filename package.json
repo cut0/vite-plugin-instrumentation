@@ -2,6 +2,10 @@
   "name": "vite-plugin-instrumentation",
   "version": "0.0.1",
   "description": "The Vite plugin for configuring settings at build or server startup",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cut0/vite-plugin-instrumentation.git"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -18,7 +22,8 @@
     "lint:fix": "biome check --fix",
     "typecheck": "tsc --noEmit",
     "test": "vitest",
-    "build": "tsc -p ./tsconfig.build.json && tsx build.ts"
+    "build": "tsc -p ./tsconfig.build.json && tsx build.ts",
+    "release": "pnpm build && changeset publish"
   },
   "keywords": ["vite", "plugin", "instrumentation"],
   "author": "Cut0",
@@ -29,6 +34,8 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.8.3",
+    "@changesets/changelog-github": "^0.5.0",
+    "@changesets/cli": "^2.27.7",
     "@commitlint/cli": "^19.4.1",
     "@types/node": "^22.5.1",
     "esbuild": "^0.23.1",
