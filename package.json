@@ -43,7 +43,7 @@
     "@changesets/cli": "^2.27.7",
     "@commitlint/cli": "^19.4.1",
     "@types/node": "^22.5.1",
-    "esbuild": "^0.23.1",
+    "esbuild": "^0.24.0",
     "tsx": "^4.19.0",
     "typescript": "^5.5.4",
     "vitest": "^2.0.5"
