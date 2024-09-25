@@ -40,8 +40,8 @@ importers:
         specifier: ^5.4.1
         version: 5.4.7
       vite-plugin-instrumentation:
-        specifier: ^0.0.5
-        version: 0.0.5
+        specifier: ^0.0.6
+        version: 0.0.6
 
 packages:
 
@@ -882,8 +882,8 @@ packages:
   uri-js@4.4.1:
     resolution: {integrity: sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg==}
 
-  vite-plugin-instrumentation@0.0.5:
-    resolution: {integrity: sha512-rVxaBA8XFff1DQUDov8kPevzHQdtNNcAPBbzXHX5XekRzgoEuGbMyZIYvCZn+APPIt9ReMR1hpneAtvVWUDeNQ==}
+  vite-plugin-instrumentation@0.0.6:
+    resolution: {integrity: sha512-nWpl0aGCbZH537zZ7qyDZZlJ9HO97RkzsQ+vWDaX1vTsK+eWVrUjjjc+iHyF24jKcQBNNgKO8+iuLEZMZ4s1Yg==}
 
   vite@5.4.7:
     resolution: {integrity: sha512-5l2zxqMEPVENgvzTuBpHer2awaetimj2BGkhBPdnwKbPNOlHsODU+oiazEZzLK7KhAnOrO+XGYJYn4ZlUhDtDQ==}
@@ -1681,7 +1681,7 @@ snapshots:
     dependencies:
       punycode: 2.3.1
 
-  vite-plugin-instrumentation@0.0.5:
+  vite-plugin-instrumentation@0.0.6:
     dependencies:
       vite: 5.4.7
     transitivePeerDependencies:
