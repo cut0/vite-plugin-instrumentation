@@ -1,5 +1,14 @@
 # vite-plugin-instrumentation
 
+## 0.0.6
+
+### Patch Changes
+
+- 74e395d: chore(deps): update dependency @types/react to v18.3.9
+- 6664940: chore(deps): update dependency vite-plugin-instrumentation to ^0.0.5
+- 763f44a: chore(deps): update dependency @eslint/js to v9.11.1
+- cc4ec6f: chore(deps): update dependency typescript-eslint to v8.7.0
+
 ## 0.0.5
 
 ### Patch Changes
