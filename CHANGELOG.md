@@ -1,5 +1,22 @@
 # vite-plugin-instrumentation
 
+## 0.0.7
+
+### Patch Changes
+
+- ee2643e: chore(deps): update dependency @biomejs/biome to v1.9.3
+- 0b90b93: chore(deps): update dependency vitest to v2.1.2
+- 750e16e: chore(deps): update dependency typescript-eslint to v8.8.0
+- 100e381: chore(deps): update dependency typescript-eslint to v8.8.1
+- 9a23eda: chore(deps): update dependency globals to v15.10.0
+- 26cd9b5: chore(deps): update dependency @vitejs/plugin-react-swc to v3.7.1
+- 2e6b1f2: fix(deps): update dependency vite to v5.4.8
+- 9c133b9: chore(deps): update dependency @types/react to v18.3.11
+- c497ef9: chore(deps): update dependency @types/react to v18.3.10
+- c012a19: chore(deps): update dependency vite-plugin-instrumentation to ^0.0.6
+- 639f1f1: chore(deps): update dependency node to v20.18.0
+- 1b85396: chore(deps): update pnpm to v9.12.1
+
 ## 0.0.6
 
 ### Patch Changes
