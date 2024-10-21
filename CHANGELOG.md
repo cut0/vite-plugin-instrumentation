@@ -1,5 +1,31 @@
 # vite-plugin-instrumentation
 
+## 0.0.7
+
+### Patch Changes
+
+- ee2643e: chore(deps): update dependency @biomejs/biome to v1.9.3
+- 0b90b93: chore(deps): update dependency vitest to v2.1.2
+- 557818b: fix(deps): update dependency vite to v5.4.9
+- 750e16e: chore(deps): update dependency typescript-eslint to v8.8.0
+- 100e381: chore(deps): update dependency typescript-eslint to v8.8.1
+- 9a23eda: chore(deps): update dependency globals to v15.10.0
+- 46e0586: chore(deps): update dependency @eslint/js to v9.13.0
+- ceb83e2: chore(deps): update dependency @biomejs/biome to v1.9.4
+- 3d5f490: chore(deps): update dependency typescript to v5.6.3
+- 9ca2cc0: chore(deps): update dependency typescript-eslint to v8.9.0
+- 26cd9b5: chore(deps): update dependency @vitejs/plugin-react-swc to v3.7.1
+- 69b9ef2: chore(deps): update dependency globals to v15.11.0
+- 2e6b1f2: fix(deps): update dependency vite to v5.4.8
+- 7961709: chore(deps): update dependency @eslint/js to v9.12.0
+- 9c133b9: chore(deps): update dependency @types/react to v18.3.11
+- c497ef9: chore(deps): update dependency @types/react to v18.3.10
+- c012a19: chore(deps): update dependency vite-plugin-instrumentation to ^0.0.6
+- 639f1f1: chore(deps): update dependency node to v20.18.0
+- de4e829: chore(deps): update pnpm to v9.12.2
+- 1b85396: chore(deps): update pnpm to v9.12.1
+- 079e031: chore(deps): update dependency typescript-eslint to v8.10.0
+
 ## 0.0.6
 
 ### Patch Changes
