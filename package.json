@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-instrumentation",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "The Vite plugin for configuring settings at build or server startup",
   "repository": {
     "type": "git",
