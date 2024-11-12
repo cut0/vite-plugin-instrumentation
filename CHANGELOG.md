@@ -1,5 +1,14 @@
 # vite-plugin-instrumentation
 
+## 0.0.8
+
+### Patch Changes
+
+- 7201e51: chore(deps): update dependency vitest to v2.1.4
+- 2f7cfbe: fix(deps): update dependency vite to v5.4.11
+- 013df6c: chore(deps): update dependency @types/node to v22.8.7
+- a11f4db: chore(deps): update dependency @types/node to v22.9.0
+
 ## 0.0.7
 
 ### Patch Changes
