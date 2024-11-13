@@ -1,5 +1,13 @@
 # vite-plugin-instrumentation
 
+## 0.0.9
+
+### Patch Changes
+
+- 6936805: chore(deps): update dependency vitest to v2.1.5
+- c71f683: chore(deps): update dependency vite-plugin-instrumentation to ^0.0.8
+- f3a362f: chore(deps): update pnpm to v9.13.0
+
 ## 0.0.8
 
 ### Patch Changes
