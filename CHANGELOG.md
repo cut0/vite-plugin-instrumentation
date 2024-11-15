@@ -1,5 +1,13 @@
 # vite-plugin-instrumentation
 
+## 0.0.10
+
+### Patch Changes
+
+- df1c24f: chore(deps): update dependency vite-plugin-instrumentation to ^0.0.9
+- 424bb98: chore(deps): update pnpm to v9.13.1
+- 0efee91: chore(deps): update pnpm to v9.13.2
+
 ## 0.0.9
 
 ### Patch Changes
