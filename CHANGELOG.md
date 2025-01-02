@@ -1,5 +1,16 @@
 # vite-plugin-instrumentation
 
+## 0.0.11
+
+### Patch Changes
+
+- ea011ed: chore(deps): update pnpm to v9.15.2
+- 042e200: chore(deps): update pnpm to v9.14.1
+- 7f0d6bb: chore(deps): update dependency vite-plugin-instrumentation to ^0.0.10
+- 3def014: chore(deps): update dependency typescript-eslint to v8.15.0
+- 6b6d4f0: chore(deps): update dependency @eslint/js to v9.15.0
+- b2cf8fb: chore(deps): update dependency @types/node to v22.9.1
+
 ## 0.0.10
 
 ### Patch Changes
