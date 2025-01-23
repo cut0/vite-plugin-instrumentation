@@ -1,5 +1,20 @@
 # vite-plugin-instrumentation
 
+## 0.0.11
+
+### Patch Changes
+
+- e8784f8: chore(deps): update dependency typescript to v5.7.2
+- ea011ed: chore(deps): update pnpm to v9.15.2
+- 01d9702: chore(deps): update dependency @changesets/cli to v2.27.10
+- 042e200: chore(deps): update pnpm to v9.14.1
+- 7f0d6bb: chore(deps): update dependency vite-plugin-instrumentation to ^0.0.10
+- 8516481: chore(deps): update dependency @eslint/js to v9.16.0
+- ca911b5: chore(deps): update dependency @vitejs/plugin-react-swc to v3.7.2
+- 3def014: chore(deps): update dependency typescript-eslint to v8.15.0
+- 6b6d4f0: chore(deps): update dependency @eslint/js to v9.15.0
+- b2cf8fb: chore(deps): update dependency @types/node to v22.9.1
+
 ## 0.0.10
 
 ### Patch Changes
